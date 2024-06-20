@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c8a7d568.css",
+    "main.js": "/Portfolio/static/js/main.920f0480.js",
+    "static/media/spicesWebsite.png": "/Portfolio/static/media/spicesWebsite.3ab01e1eca7008840862.png",
+    "static/media/objectDetection.png": "/Portfolio/static/media/objectDetection.a1c1dd12a69ebe5aed3a.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/buildAPI.png": "/Portfolio/static/media/buildAPI.b99fae8bad0d04d77989.png",
+    "static/media/majorProject.jpg": "/Portfolio/static/media/majorProject.124c31d0f6b6ef28307a.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.3b3c10469e3f41288a30.png",
+    "static/media/Sachin_Resume.pdf": "/Portfolio/static/media/Sachin_Resume.8222744b645f67031dd4.pdf",
+    "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.c3abb529a50d0a37b0b8.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/c_plus.png": "/Portfolio/static/media/c_plus.1240ce157b70fb399c6c.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c8a7d568.css.map": "/Portfolio/static/css/main.c8a7d568.css.map",
+    "main.920f0480.js.map": "/Portfolio/static/js/main.920f0480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a7d568.css",
+    "static/js/main.920f0480.js"
+  ]
+}
