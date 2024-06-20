@@ -1,0 +1,14 @@
+/* .typewriter {
+    position: fixed;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+} */
+
+.cursor {
+    display: inline-block;
+    width: 8px;
+    height: 24px;
+    background-color: #333;
+    /* animation: blink 0.7s infinite; */
+}
