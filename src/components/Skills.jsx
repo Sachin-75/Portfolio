@@ -8,6 +8,7 @@ import GitHub from '../assets/github.png';
 import Mongo from '../assets/mongo.png';
 import MySql from '../assets/mysql.png';
 import C_plus from '../assets/c_plus.png';
+import java from '../assets/java.png'
 
 import '../assets/Skills.css';
 
@@ -52,6 +53,10 @@ const Skills = () => {
               <div className='html shadow-md shadow-[#cbcad4]  bg-[#111b2b]'>
                   <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
                   <p className='my-4'>MONGO DB</p>
+              </div>
+              <div className='html shadow-md shadow-[#cbcad4]  bg-[#111b2b]'>
+                  <img className='w-20 mx-auto' src={java} alt="HTML icon" />
+                  <p className='my-4'>JAVA</p>
               </div>
               <div className='html shadow-md shadow-[#cbcad4]  bg-[#111b2b]'>
                   <img className='w-20 mx-auto' src={C_plus} alt="HTML icon" />
