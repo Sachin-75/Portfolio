@@ -4,7 +4,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import resume from '../assets/Sachin_Resume.pdf';
 // import { HiArrowNarrowRight } from 'react-icons/hi';
-import Typewriter from 'react-typewriter-effect';
+import TypewriterComponent from 'typewriter-effect';
 
 const Home = () => {
   
@@ -27,19 +27,26 @@ const Home = () => {
         </div>
 
         {/* <h2 className='text-4xl sm:text-7xl font-bold text-[#5e7acf]'> */}
-        <h2 className='text-4xl sm:text-7xl font-bold text-transparent bg-clip-text bg-custom-gradient-h2'>
-          I'm a Full Stack Developer.
-          <Typewriter
-                        onInit={(typewriter) => {
-                            typewriter.typeString("Hello, Welcome to Typewriter Effect!")
-                                .pauseFor(1000)
-                                .deleteAll()
-                                .typeString("Try out this library in React!")
-                                .pauseFor(1000)
-                                .start();
-                        }}
-              />
-        </h2>
+                {/* Aligning I'm and typewriter text */}
+        {/* Aligning I'm and typewriter text */}
+        <div className='flex flex-col sm:flex-row sm:items-center text-4xl sm:text-7xl font-bold text-transparent bg-clip-text bg-custom-gradient-h2'>
+          <h2>
+            I'm a&nbsp;
+          </h2>
+          <div className='text-2xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl'>
+            <TypewriterComponent
+              options={{
+                strings: [' Full Stack Developer', ' Web Developer', ' Java Developer', ' Software Developer'],
+                loop: true,
+                autoStart: true,
+              }}
+            />
+          </div>
+        </div>
+
+
+
+
         {/* text-[#8892b0] py-4 max-w-[800px] */}
         <p className='text-[#dfe2ea] py-4 max-w-[700px]'>
           Welcome to my Full Stack Developer portfolio. I’m specializing in building (and occasionally
