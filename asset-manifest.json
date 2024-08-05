@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c8a7d568.css",
-    "main.js": "/Portfolio/static/js/main.5d8aa6ea.js",
+    "main.css": "/Portfolio/static/css/main.c3283768.css",
+    "main.js": "/Portfolio/static/js/main.7b4f46cd.js",
     "static/media/spicesWebsite.png": "/Portfolio/static/media/spicesWebsite.3ab01e1eca7008840862.png",
     "static/media/objectDetection.png": "/Portfolio/static/media/objectDetection.a1c1dd12a69ebe5aed3a.png",
     "static/media/mysql.png": "/Portfolio/static/media/mysql.167c88550478e6f0f85c.png",
@@ -20,11 +20,11 @@
     "static/media/java.png": "/Portfolio/static/media/java.09a6ada920b400ad7784.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.c8a7d568.css.map": "/Portfolio/static/css/main.c8a7d568.css.map",
-    "main.5d8aa6ea.js.map": "/Portfolio/static/js/main.5d8aa6ea.js.map"
+    "main.c3283768.css.map": "/Portfolio/static/css/main.c3283768.css.map",
+    "main.7b4f46cd.js.map": "/Portfolio/static/js/main.7b4f46cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8a7d568.css",
-    "static/js/main.5d8aa6ea.js"
+    "static/css/main.c3283768.css",
+    "static/js/main.7b4f46cd.js"
   ]
 }
