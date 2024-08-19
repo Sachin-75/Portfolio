@@ -36,7 +36,7 @@ const Home = () => {
           <div className='text-2xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl'>
             <TypewriterComponent
               options={{
-                strings: [' Full Stack Developer', ' Web Developer', ' Java Developer', ' Software Developer'],
+                strings: [' Full Stack Developer', ' Web Developer', ' Java Developer'],
                 loop: true,
                 autoStart: true,
               }}
