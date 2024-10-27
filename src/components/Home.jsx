@@ -7,7 +7,7 @@ import resume from '../assets/Sachin_Resume.pdf';
 import TypewriterComponent from 'typewriter-effect';
 
 const Home = () => {
-  
+
   return (
     //bg-[#0a192f]
     <div name='home' className='w-full h-screen bg-[#070e19]'>
@@ -15,7 +15,7 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
         {/* <p className='text-blue-600'>Hi, my name is</p> */}
         <div className='flex flex-col sm:flex-row items-left sm:text-5xl'>
-          <p className='text-white sm:text-4xl mx-2 bg-[#070e19]'>Hi, my name is </p>
+          <p className='text-white sm:text-4xl text-2xl mx-2 bg-[#070e19]'>Hi, my name is </p>
           {/* <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
             SACHIN KUMAVAT
           </h1> */}
@@ -27,7 +27,7 @@ const Home = () => {
         </div>
 
         {/* <h2 className='text-4xl sm:text-7xl font-bold text-[#5e7acf]'> */}
-                {/* Aligning I'm and typewriter text */}
+        {/* Aligning I'm and typewriter text */}
         {/* Aligning I'm and typewriter text */}
         <div className='flex flex-col sm:flex-row sm:items-center text-4xl sm:text-7xl font-bold text-transparent bg-clip-text bg-custom-gradient-h2'>
           <h2>
@@ -48,7 +48,7 @@ const Home = () => {
 
 
         {/* text-[#8892b0] py-4 max-w-[800px] */}
-        <p className='text-[#dfe2ea] py-4 max-w-[700px]'>
+        <p className='text-[#dfe2ea] py-4 max-w-[700px] text-lg'>
           Welcome to my Full Stack Developer portfolio. I’m specializing in building (and occasionally
           designing) exceptional digital experiences. Currently, I’m focused on
           building responsive full-stack web applications.
