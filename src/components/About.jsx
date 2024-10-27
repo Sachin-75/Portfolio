@@ -23,12 +23,15 @@ const About = () => {
               Hello! I'm Sachin Kumavat, a passionate software developer with a strong foundation in Java, including advanced concepts like Hibernate and Servlet & JSP. My journey in programming began with a fascination for how things work behind the scenes, which led me to explore both frontend and backend web technologies.
               
             </p>
-            <p className='text-lg mb-4'>
+            {/* <p className='text-lg mb-4'>
               Over the years, I've honed my skills in building efficient and user-friendly web applications. I love tackling complex problems and creating solutions that make a real impact. Whether it’s crafting dynamic web experiences or designing robust backend systems, I’m always excited to take on new challenges.  
+            </p> */}
+            <p className='text-lg mb-4'>
+              Over the years, I've honed my skills in building efficient and user-friendly web applications. Whether it’s crafting dynamic web experiences or designing robust backend systems, I’m always excited to take on new challenges.  
             </p>
-            <p className='text-lg'>
+            {/* <p className='text-lg'>
               If you're passionate about web development, problem-solving, or just curious to chat about technology, feel free to reach out
-            </p>
+            </p> */}
           </div>
         </div>
       </div>
