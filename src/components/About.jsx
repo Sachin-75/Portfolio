@@ -18,7 +18,7 @@ const About = () => {
             <p>Hi. I'm Sachin Kumavat, nice to meet you. Please take a look around.</p>
           </div> */}
           <hr></hr>
-          <div className='bg-[#1c1c26] rounded-md backdrop-blur-md px-5 flex flex-col'>
+          <div className='bg-[#1c1c26] rounded-md backdrop-blur-md px-5 flex flex-col '>
             <p className=' text-lg mb-4'>
               Hello! I'm Sachin Kumavat, a passionate software developer with a strong foundation in Java, including advanced concepts like Hibernate and Servlet & JSP. My journey in programming began with a fascination for how things work behind the scenes, which led me to explore both frontend and backend web technologies.
               
